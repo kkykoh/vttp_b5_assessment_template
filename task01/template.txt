@@ -1,0 +1,4 @@
+The <position> recorded number of cyclists was in <season>, on a <day> in the month of <month>.
+There were a total of <total> cyclists. 
+The weather was <weather>.
+<day> was <holiday>.

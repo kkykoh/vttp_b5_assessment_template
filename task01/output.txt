@@ -1,0 +1,30 @@
+The highest recorded number of cyclists was in Fall, on a Friday in the month of September.
+There were a total of 8714 cyclists. 
+The weather was Clear, Few clouds, Partly cloudy, Partly cloudy.
+Friday was is not a holiday.
+
+
+The second highest recorded number of cyclists was in Winter, on a Friday in the month of September.
+There were a total of 8555 cyclists. 
+The weather was Clear, Few clouds, Partly cloudy, Partly cloudy.
+Friday was is not a holiday.
+
+
+The third highest recorded number of cyclists was in Fall, on a Friday in the month of September.
+There were a total of 8395 cyclists. 
+The weather was Clear, Few clouds, Partly cloudy, Partly cloudy.
+Friday was is not a holiday.
+
+
+The fourth highest recorded number of cyclists was in Summer, on a Thursday in the month of March.
+There were a total of 8362 cyclists. 
+The weather was Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist.
+Thursday was is not a holiday.
+
+
+The fifth highest recorded number of cyclists was in Summer, on a Friday in the month of May.
+There were a total of 8294 cyclists. 
+The weather was Clear, Few clouds, Partly cloudy, Partly cloudy.
+Friday was is not a holiday.
+
+
