@@ -98,8 +98,5 @@ public class Main {
         }
     }
     
-    public static void sortBikeEntriesByTotalCyclists(List<BikeEntry> bikeList) {
-        bikeList.sort(Comparator.comparingInt(entry -> totalCyclists(entry)));
-    }
-
+   
 }
